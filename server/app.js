@@ -31,7 +31,7 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'frontend', 'public')));
 
 app.use(cors({
-  origin: '*',
+  origin: ['*', 'http://127.0.0.1:3000'], // Replace '*' with specific URLs if needed
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
