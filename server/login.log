@@ -1,0 +1,1410 @@
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","message":"Server started on port 3000"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 6","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 3","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 5","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift A"}
+{"0":{"id":"A","password":"$2b$10$csMFUlpYM.9gB6TPW9V12eefLEixe2nfm5AfS5TUbiuYZWUJZ6J8W","shift_name":"Shift A"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 7","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 4","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"warn","message":"Password does not match for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift C"}
+{"0":{"id":"C","password":"$2b$10$TF2Hus4xxYy6koiMZbY3MeJBA/huU0Qbeur1jv1pLNHAPXfFXnQTK","shift_name":"Shift C"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 2","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
+{"level":"info","machineId":"Lectra 1","message":"Data being sent:","shiftName":"Shift B"}
+{"0":{"id":"B","password":"$2b$10$zu4uKYUENGn7Tq866cbpS.NW/Y3XyakYUGsY9bgV1QNl2uqlv0CmO","shift_name":"Shift B"},"level":"info","message":"Rows returned:"}
+{"level":"info","message":"Password match:"}
+{"level":"info","message":"Login successful for shiftName:"}
